@@ -105,3 +105,4 @@ h_trans = transformer(x, h_fc1)
 - Shoutout to [Eder Santana](https://twitter.com/edersantana) for introducing and helping me understand the paper!
 - [ppt-01](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 - [ppt-02](https://kevinzakka.github.io/2017/01/18/stn-part2/)
+- [csdn](https://blog.csdn.net/u011974639/article/details/79681455/)
